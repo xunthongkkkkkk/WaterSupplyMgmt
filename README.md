@@ -7,7 +7,7 @@
 >
 > 3. Create a folder named "login"
 > 
-> 4. Copy paste the 4 php files into the folder: conn, login, register, and validate
+> 4. Copy paste the 4 php files from login folder into the new created folder: conn, login, register, and validate
 >
 > refer: https://youtu.be/GKyEJmCoK5s
 
